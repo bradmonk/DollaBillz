@@ -22,7 +22,6 @@ alt="MCMC Sim in Action" width="400" border="10" /></a>
 
 The resulting distribution seems to best resemble a Nakagami distribution (though I don't have an intuitive reason why, yet). 
 
-Fit View 1:4:
 <img src="http://neuralnet.work/s/dollarfunz/Fig4.png" width="400" border="10" />
 <img src="http://neuralnet.work/s/dollarfunz/Fig5.png" width="400" border="10" />
 <img src="http://neuralnet.work/s/dollarfunz/Fig6.png" width="400" border="10" />
