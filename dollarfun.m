@@ -14,7 +14,7 @@ for t = 1:nIters
 
     GiveTo = randi(nPeople,nPeople,1);
     
-    CanGive = Dollars > 1;
+    CanGive = Dollars > 0;
 
     GetD = GiveTo .* CanGive;
 
